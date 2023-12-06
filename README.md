@@ -1,8 +1,8 @@
 <!--
- * @Author: 金继平
+ * @Author: shushigege
  * @Date: 2023-12-06 11:22:47
  * @LastEditTime: 2023-12-06 15:52:59
- * @email: jinjiping@longcheer.com
+ * @email: shushigege@gmail.com
 -->
 # chatgpt
 用于记录狗屁通中的学习过程  
