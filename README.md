@@ -1,11 +1,18 @@
 <!--
  * @Author: 金继平
  * @Date: 2023-12-06 11:22:47
- * @LastEditTime: 2023-12-06 15:47:04
+ * @LastEditTime: 2023-12-06 15:52:59
  * @email: jinjiping@longcheer.com
 -->
 # chatgpt
-用于记录狗屁通中的学习过程
+用于记录狗屁通中的学习过程  
+国内镜像网站，可直接输入官方账号密码登录使用  
+https://chat.xf233.com  
+https://chat1.zhile.io  
+官网地址：  https://openai.com/blog/chatgpt  
+镜像站点主页： https://pypi.tuna.tsinghua.edu.cn/simple  
+如果你想在使用pip时使用清华大学的PyPI镜像，可以执行以下命令  
+pip install XXX -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 脚本学习
 ### 1.grep_demsg.py
