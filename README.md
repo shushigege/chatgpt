@@ -39,3 +39,10 @@ python combine_log.py
 python crop_lines.py your_input_file.txt output_cropped.txt output_deleted.txt start_line end_line
 ```
 确保替换 your_input_file.txt、output_cropped.txt、output_deleted.txt、start_line 和 end_line 为实际的文件路径和行数范围。
+
+### 4.filter_keywords.py
+以下是一个简单的Python脚本，用于过滤包含特定关键字的行。你可以使用这个脚本根据给定的关键字（"memory", "alloc", "free", "oom"）过滤文本文件的内容。  
+```python
+python filter_keywords.py deleted_content.txt output_filtered.txt  
+deleted_content.txt 替换为你的实际输入文件路径。
+```
