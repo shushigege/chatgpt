@@ -32,3 +32,10 @@ pip install XXX -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```python
 python combine_log.py 
 ```
+### 3.crop_lines.py
+可以用来删除log指定行数范围内的内容并输出到一个新文件，并且可以用来删除指定行数范围内的内容并输出到一个新文件。  
+可以使用以下命令执行脚本：  
+```python
+python crop_lines.py your_input_file.txt output_cropped.txt output_deleted.txt start_line end_line
+```
+确保替换 your_input_file.txt、output_cropped.txt、output_deleted.txt、start_line 和 end_line 为实际的文件路径和行数范围。
